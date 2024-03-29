@@ -1,3 +1,8 @@
+# Table of Contents
+
+* [Celery Redis Monitoring Scripts](#celery-redis-monitoring-scripts)
+* [Tetris](#tetris)
+
 # Celery Redis Monitoring Scripts
 
 I wrote these scripts while working at edX.org to monitor celery queues stored in redis. The motivation for writing these scripts was to be able to monitor the celery queues after migrating from RabbitMQ to Redis. These scripts were moved into a private repository, so the versions that I can show publically are missing some more recent updates. Please see a description of each script below.
